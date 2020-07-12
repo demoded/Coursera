@@ -1,0 +1,5 @@
+E:\Development\C# Coursera GameDev\Assignment 1\ProgramAssignment_1\ProgramAssignment_1\bin\Debug\ProgramAssignment_1.exe
+E:\Development\C# Coursera GameDev\Assignment 1\ProgramAssignment_1\ProgramAssignment_1\bin\Debug\ProgramAssignment_1.pdb
+E:\Development\C# Coursera GameDev\Assignment 1\ProgramAssignment_1\ProgramAssignment_1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Development\C# Coursera GameDev\Assignment 1\ProgramAssignment_1\ProgramAssignment_1\obj\x86\Debug\ProgramAssignment_1.exe
+E:\Development\C# Coursera GameDev\Assignment 1\ProgramAssignment_1\ProgramAssignment_1\obj\x86\Debug\ProgramAssignment_1.pdb
